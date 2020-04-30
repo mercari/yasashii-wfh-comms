@@ -1,1 +1,1 @@
-# yasashii-WFH-Communication-Best-Practices
+# yasashii-wfh-comms
