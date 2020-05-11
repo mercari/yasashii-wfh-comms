@@ -1,5 +1,6 @@
 # yasashii-wfh-comms
-※ メルカリでは日英が使われていますが、全員が完全なバイリンガルではありません。母語話者と学習者との言語コミュニケーションを円滑にするために、やさしい日本語ややさしい英語という言語を使っています。在宅勤務（WFH）となりオンラインでのコミュニケーションが多くなってからは、ますますやさしいコミュニケーションの重要度が上がっていると考えます。ここにメルカリのやさしいコミュニケーションとWFHコミュニケーション・ベスト・プラクティスをまとめました。
+※ メルカリでは日英が使われていますが、全員が完全なバイリンガルではありません。母語話者と学習者との言語コミュニケーションを円滑にするために、やさしい日本語ややさしい英語という言語を使っています。在宅勤務（WFH）となりオンラインでのコミュニケーションが多くなってからは、ますますやさしいコミュニケーションの重要度が上がっていると考えます。ここにメルカリのやさしいコミュニケーションとWFHコミュニケーション・ベスト・プラクティスをまとめました。  
+
 ※ Both English and Japanese are used in Mercari, however, not everyone is fully bilingual. Because of this, Mercari has been using Yasashii Nihongo and Yasashii Eigo (Easy & Kind Japanese and Easy & Kind English) to improve communication between native speakers and language learners. We believe that communicating in an easy and kind way is even more important when communicating online. These are our Yasashii and Work From Home (WFH) communication best practices.
 ## Status
 Production ready.
